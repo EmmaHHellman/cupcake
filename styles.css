@@ -1,0 +1,21 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 20px;
+  line-height: 30px;
+  color: orange;
+  text-decoration: underline;
+  font-weight: 300;
+}
+
+img {
+  border: 5px solid red;
+  border-radius: 25px;
+  text-align: center;
+  padding: 10px;
+  height: 100px;
+  width: 100px;
+}
